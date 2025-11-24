@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /cart.html
+
+Sitemap: https://al31.ru/sitemap.xml
+
+# Основной хост
+Host: https://al31.ru
